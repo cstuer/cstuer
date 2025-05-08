@@ -1,4 +1,4 @@
-# //Cody Stuerman
+# Cody Stuerman
 
 Data Analytics | SQL | Tableau | Python  
 St. Louis, MO  
