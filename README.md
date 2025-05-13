@@ -6,7 +6,7 @@ Email: c.stuerman@outlook.com
 LinkedIn: https://www.linkedin.com/in/codystuerman  
 GitHub: https://github.com/cstuer
 
-I’m Cody, a data analytics student graduating in Spring 2025. My passion is uncovering insights from data and building clear, meaningful visualizations. I have experience with SQL, Tableau, and Python, and I enjoy working with business and e-commerce datasets.
+I’m Cody, a data analytics student who graduated in Spring 2025. My passion is uncovering insights from data and building clear, meaningful visualizations. I have experience with SQL, Tableau, and Python, and I enjoy working with business and e-commerce datasets.
 
 ## Featured Projects
 
