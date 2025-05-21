@@ -6,7 +6,7 @@ Email: c.stuerman@outlook.com
 LinkedIn: https://www.linkedin.com/in/codystuerman  
 GitHub: https://github.com/cstuer
 
-I'm Cody, a data analyst with a passion for transforming raw data into actionable insights and clear visualizations. I specialize in SQL, Tableau, and Python, and enjoy working with business, financial, and e-commerce datasets.
+I'm Cody, a data analyst who turns complex data into meaningful insights and visuals. I work with SQL, Tableau, and Python to solve real business problems, with experience in financial, healthcare, and e-commerce datasets. I focus on clarity, logic, and results.
 
 ## Featured Projects
 
