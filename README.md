@@ -22,6 +22,7 @@ SQL and Tableau project analyzing national hospital readmission data from CMS. U
 Stock Volatility and Performance  
 GitHub: https://github.com/cstuer/stock-volatility-performance  
 Python-based time series project analyzing daily returns and 20-day rolling volatility of U.S. stocks from 2020 to 2024, including the COVID crash.
+
 ---
 
 More projects coming soon as I continue growing my portfolio.  
